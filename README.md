@@ -11,7 +11,7 @@ dashboard cms aplikasi web online showroom
 ## Before Commit
  - npm run prod
 
-## database
+## Database
  - php artisan migrate
 
 note: jangan edit langsung tanpa npm run watch / dev (app.css, main.css, app.js, main.js) -> di folder public
@@ -22,4 +22,4 @@ note: jangan edit langsung tanpa npm run watch / dev (app.css, main.css, app.js,
 <img src="./screenshot-1.png" alt="Image Website">
 
 <img src="./screenshot-2.png" alt="Image Website">
-<img src="./screenshot-2.png" alt="Image Website">
+<img src="./screenshot-3.png" alt="Image Website">
