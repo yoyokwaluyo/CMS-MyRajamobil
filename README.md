@@ -1,3 +1,13 @@
+## Display Image
+
+<img src="./screenshot-1.webp" alt="Image Website">
+
+<img src="./screenshot-2.webp" alt="Image Website">
+
+<img src="./screenshot-3.webp" alt="Image Website">
+
+<img src="./screenshot-4.webp" alt="Image Website">
+
 # CMS-MyRajamobil
 dashboard cms aplikasi web online showroom
 
@@ -15,11 +25,3 @@ dashboard cms aplikasi web online showroom
  - php artisan migrate
 
 note: jangan edit langsung tanpa npm run watch / dev (app.css, main.css, app.js, main.js) -> di folder public
-
-
-## Display Image
-
-<img src="./screenshot-1.png" alt="Image Website">
-
-<img src="./screenshot-2.png" alt="Image Website">
-<img src="./screenshot-3.png" alt="Image Website">
